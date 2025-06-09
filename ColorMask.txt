@@ -1,0 +1,19 @@
+Dark Ink: 
+HSV at (1706,839): H=24, S=47, V=146
+HSV at (2975,894): H=13, S=10, V=175
+HSV at (2970,894): H=0, S=12, V=130
+HSV at (3606,812): H=23, S=19, V=158
+
+Mid Stroke: 
+HSV at (1449,1194): H=26, S=16, V=230
+HSV at (713,529): H=26, S=26, V=137
+HSV at (692,527): H=17, S=30, V=163
+
+Faded 
+HSV at (2208,1564): H=36, S=6, V=210
+HSV at (2431,2007): H=50, S=4, V=199
+HSV at (2457,2021): H=25, S=8, V=182
+
+Hue is lower 
+Saturation is higher 
+V is lower 
