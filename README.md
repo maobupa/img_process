@@ -13,4 +13,5 @@ This project contains scripts and experiments for processing scanned hand-writte
 
 ## Instructions
 - Ensure OpenCV and NumPy is installed
-- run test1.py, which is the main python file comparing different image processing methods
+- Run ImageProcess.py to experiment with different processing methods 
+- Ensure that there is a folder named originals in the directory that stores all the images you want to process. 
